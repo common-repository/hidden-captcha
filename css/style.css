@@ -1,0 +1,16 @@
+#msgverde{
+    border-radius: 5px;    
+    border-style: solid;
+    border-width: 1px;
+    font-size: 12px;
+    line-height: 19px;
+    margin: 10px 15px 0 5px;
+    padding: 10px;    
+    background-color: #dcfcbd;
+    border-color: #8DFF1C;
+    color: #555555;
+}
+#toplevel_page_elPlugin_menu .wp-submenu .wp-first-item {
+	display:none;
+}
+.elplugin_azul{color:#16A1E7}
